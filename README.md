@@ -45,6 +45,8 @@ _Please contact michaela.delight@gmail.com with concerns or comments._
 * _PHP_
 * _PHPUnit_
 * _Composer_
+* _Silex_
+* _Twig_
 
 ### License
 
